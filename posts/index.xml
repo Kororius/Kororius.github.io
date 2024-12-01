@@ -6,7 +6,14 @@
     <description>Recent content in Posts on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 19:28:36 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mano dar vienas sukurtas puslapis</title>
+      <link>http://localhost:1313/new-page/</link>
+      <pubDate>Sun, 01 Dec 2024 19:28:36 +0200</pubDate>
+      <guid>http://localhost:1313/new-page/</guid>
+      <description>&lt;h2 id=&#34;sveiki-atvykę&#34;&gt;Sveiki atvykę!&lt;/h2&gt;&#xA;&lt;p&gt;Šis puslapis yra sukurtas naudojant Hugo. Čia pateikiamas pavyzdinis paveiksliukas ir kodo fragmentas.&lt;/p&gt;&#xA;&lt;h3 id=&#34;paveiksliukas&#34;&gt;Paveiksliukas&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cat.png&#34; alt=&#34;Paveiksliukas&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;kodo-fragmentas&#34;&gt;Kodo fragmentas&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Python kodo fragmentas&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sveiki_pasauli&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Labas pasauli!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sveiki_pasauli()&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
   </channel>
 </rss>
